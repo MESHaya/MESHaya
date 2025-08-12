@@ -16,6 +16,7 @@ Currently leveling up my skills in **C#**, and **.NET** with a growing interest 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-239120?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
 ---
