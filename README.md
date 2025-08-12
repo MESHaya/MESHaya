@@ -19,9 +19,6 @@ Currently leveling up my skills in **C#**, and **.NET** with a growing interest 
 
 
 ---
-h project is fully documented with instructions, features, and screenshots.*
-
----
 
 ## 📊 GitHub Stats
 ![Meshaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=MESHaya&show_icons=true&theme=tokyonight)  
